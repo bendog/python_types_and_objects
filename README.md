@@ -8,3 +8,7 @@ Python Masterclass for She Codes Plus 2020
 ## run
 
     jupyter-lab
+
+## TODO
+
+ - add vehicle size in m2 and carrying capacity in m2, might be more sensible? could also be more confusing?
