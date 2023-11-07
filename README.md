@@ -1,6 +1,8 @@
 # shecodes_python_masterclass_2020
 Python Masterclass for She Codes Plus 2020
 
+Slides for this talk can be found here <https://slides.com/bendog/objectifyingpython/fullscreen>
+
 ## install
 
     pipenv sync --dev
